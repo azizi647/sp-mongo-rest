@@ -1,2 +1,9 @@
-# sp-mongo-rest
-Simple mongo rest api project for spring boot
+## Simple mongo rest api project for spring boot
+###used:
+>>Spring Web 
+#
+>>Spring Data MongoDb 
+#
+>>Docker: Mongodb Image
+
+
